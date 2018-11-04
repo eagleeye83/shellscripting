@@ -6,3 +6,4 @@ these are my first notes without quotes
 these notes are entered using variable
 entered using vaiable try 2
 entering notes after changing path variable
+this is after gitignore
